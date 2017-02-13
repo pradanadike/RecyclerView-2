@@ -57,3 +57,4 @@ public class HotelAdapter extends RecyclerView.Adapter<HotelAdapter.ViewHolder> 
         }
     }
 }
+// hah //
